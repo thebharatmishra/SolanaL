@@ -1,28 +1,29 @@
-## Getting Started
+# Docs
 
-First, run the development server:
+### Meta Mask Foundry Connect
 
-```bash
-yarn dev
+Metamask provides with a functions.
+
+```
+window.ethereum
 ```
 
-Open [http://localhost:3001](http://localhost:3001) with your browser to see the result.
+Metamask should be available in the browser for it to work.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Once connected, we can fetch various public information about the account using this function.
 
-To create [API routes](https://nextjs.org/docs/app/building-your-application/routing/router-handlers) add an `api/` directory to the `app/` directory with a `route.ts` file. For individual endpoints, create a subfolder in the `api` directory, like `api/hello/route.ts` would map to [http://localhost:3001/api/hello](http://localhost:3001/api/hello).
+The protocol or Blockchain is called directly.
 
-## Learn More
+## AI Prompting & Forums
 
-To learn more about Next.js, take a look at the following resources:
+AI can help us understand complex topics easily also
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn/foundations/about-nextjs) - an interactive Next.js tutorial.
+Answers can be found using different sources. One of the best could be Simply googling it.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+At last we can ask questions in different forums such as reddit, stackoverflow etc.
 
-## Deploy on Vercel
+1. Limit self-triage to 10-15 minutes.
+2. Dont be afraid to ask AI, but dont skip learning.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_source=github.com&utm_medium=referral&utm_campaign=turborepo-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+3. Use \``` code here \``` to specify the code blocks while asking for answers and identifying bugs.
+4. Same can be done while asking in github discussions.Also \```solidity can be written to identify the language in which code is written.

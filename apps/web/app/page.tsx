@@ -44,10 +44,10 @@ const LINKS = [
     description: "Choose from over 15 examples and deploy with a single click.",
   },
   {
-    title: "Deploy",
-    href: "https://vercel.com/new",
+    title: "Sign Up",
+    href: "/signup",
     description:
-      " Instantly deploy your Turborepo to a shareable URL with Vercel.",
+      " Sign Up to the site to unlock new features.",
   },
 ];
 
